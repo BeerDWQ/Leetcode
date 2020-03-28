@@ -4,7 +4,7 @@ package practice;
  *
  * @Description: 回文字符串
  *
- * @Author: DONGWENQI
+ * @Author: DONGWENQI1111
  * @Date: Created in 7:10 PM 2020/3/6
  * @Modified By:
  ****************************************************/
